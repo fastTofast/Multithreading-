@@ -4,7 +4,7 @@ package com.it.chen.thread.exercise;
  * Hello world!
  *
  */
-public class ThreadExervise 
+public class ThreadExercise 
 {
     public static void main( String[] args )
     {
