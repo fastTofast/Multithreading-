@@ -1,4 +1,4 @@
-package com.it.chen.thread.exercise;
+package com.it.chen.dynamic.proxy;
 
 /**
  * Unit test for simple App.

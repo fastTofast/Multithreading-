@@ -1,4 +1,4 @@
-package com.it.chen.thread.exercise;
+package com.it.chen.dynamic.proxy;
 
 public interface IAppTest {
 	public int add(int a ) ;

@@ -1,4 +1,4 @@
-package com.it.chen.thread.exercise;
+package com.it.chen.dynamic.proxy;
 
 public class Cllient {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.it.chen.thread.exercise;
+package com.it.chen.dynamic.proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
